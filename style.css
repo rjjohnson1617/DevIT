@@ -1,0 +1,48 @@
+@charset "utf-8";
+#logo {
+	padding-top: 40px;
+}
+#header h1 {
+	font-family: passero-one;
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 50px;
+	color: #00E705;
+}
+#intro p {
+	font-family: passero-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	text-align: center;
+	color: #FFFFFF;
+}
+body{
+	background-color: black;
+}
+#calendar-header h1 {
+	font-family: passero-one;
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 70px;
+	color: #00E705;
+}
+#footer {
+	height: 50px;
+	padding-left: 15px;
+}
+.content {
+	min-height: calc(100vh - 70px);
+}
+#footer h3 {
+	font-family: "passero-one";
+	font-size: 20px;
+	margin-top: 40px;
+	color: #656565;
+}
+#navbarSupportedContent1 .navbar-nav.ml-auto .nav-item {
+	padding-left: 10px;
+}
+#footer a {
+	padding-left: 10px;
+}
